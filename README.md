@@ -26,3 +26,5 @@ Website: www.hornhub.finance<br />
 Twitter: https://twitter.com/hornhub_finance<br />
 TG Chinese: https://t.me/HHUBChinese<br />
 TG French:  https://t.me/HHUBFrench<br />
+Medium: https://hornhub-finance.medium.com/<br />
+
